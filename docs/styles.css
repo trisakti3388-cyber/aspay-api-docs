@@ -62,7 +62,7 @@ code {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; background: #f1f6ff; padding: 0.2rem 0.4rem; border-radius: 6px;
 }
 pre {
-  overflow-x: auto; background: #0f172a; color: #e2e8f0; padding: 16px; border-radius: 14px; border: 1px solid #1e293b;
+  overflow-x: auto; background: #eef4ff; color: #17325c; padding: 16px; border-radius: 14px; border: 1px solid #cfe0ff;
 }
 .table-wrap { overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; }
